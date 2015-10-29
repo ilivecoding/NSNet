@@ -1,2 +1,2 @@
 # NSNet
-DEMO,TEST
+--NSNet.IdentityScope
